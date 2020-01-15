@@ -1,7 +1,7 @@
 # Solutions to Problem Set
 - [Solutions](http://meyer99.github.io/2020/01/15/CS229-PS0/) to Problem Set 0 (Fall 2018)
 - Solutions to Public Course Problem Set
-  - [Official solutions](https://github.com/Meyer99/Stanford-CS229-Materials/tree/master/solutions/Public%20Course/official%20solutions)
+  - [Official solutions](https://github.com/Meyer99/Stanford-CS229-Materials/tree/master/solutions/official%20solutions%202008)
   - Solutions to Problem Set 1
   - Solutions to Problem Set 2
   - Solutions to Problem Set 3
